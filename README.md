@@ -1,5 +1,7 @@
 # Sobre
-
+<p align="center">
+<img src="src/assets/images/logo.svg">
+</p>
 ## Projeto realizado com a instrução da empresa de tecnologias Rocketseat. Evento NLW-Together
 
 # Interface
@@ -14,3 +16,5 @@
 <p align="center">
 <img src="https://ik.imagekit.io/gaulm7exha1/login2_pkRdgHRKAU.PNG">
 </p>
+
+- Você pode ver o layout do projeto [aqui](https://www.figma.com/file/u0BQK8rCf2KgzcukdRRCWh/Letmeask/duplicate?node-id=0%3A1)
