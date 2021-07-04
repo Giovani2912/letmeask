@@ -2,6 +2,7 @@
 <p align="center">
 <img src="src/assets/images/logo.svg">
 </p>
+
 ## Projeto realizado com a instrução da empresa de tecnologias Rocketseat. Evento NLW-Together
 
 # Interface
