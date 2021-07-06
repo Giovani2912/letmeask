@@ -6,7 +6,7 @@
 ## Projeto realizado com a instrução da empresa de tecnologias Rocketseat. Evento NLW-Together
 
 # Interface
-## Caso a sala ja exista, basta digitarmos o código na caixa de texto abaixo e entrar na sala
+## Caso a sala já exista, basta digitarmos o código na caixa de texto abaixo e entrar na sala
 </br>
 <p align="center">
 <img src="https://ik.imagekit.io/gaulm7exha1/login1_tmQn9aEUa.PNG">
