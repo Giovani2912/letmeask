@@ -46,6 +46,13 @@
 <img src="src/assets/gifs/room-copy.gif">
 </p>
 
+# Tecnologias
+
+- [ReactJS](https://pt-br.reactjs.org/)
+- [Typescript](https://www.typescriptlang.org/)
+- [SCSS](https://sass-lang.com/)
+- [Firebase](https://firebase.google.com/?hl=pt)
+
 # Como baixar o projeto
 
 ```
